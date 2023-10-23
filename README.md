@@ -17,4 +17,6 @@ in phase 2 :
 
 1. we build a neural network with tensorflow
 
-in phase 3 : we compared results of the 2 phases
+in phase 3 : 
+
+we compared results of the 2 phases
