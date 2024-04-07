@@ -22,4 +22,3 @@ in phase 3 :
 we compared results of the 2 phases
 
 
-#python #tensorflow
